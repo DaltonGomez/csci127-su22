@@ -48,7 +48,7 @@ multiplication problem. Also, print the data type of `product`.
 1e) Ask the user for the value of pi. Then ask the user to give you the radius of any sized circle, and compute
 the area of the circle given input pi and radius. Print back the following, as well as the data type of `area`.
 
->"Given that a circle has radius = `radius` and pi = `pi`, then the circle's area = `area`."
+> "Given that a circle has radius = `radius` and pi = `pi`, then the circle's area = `area`."
 """
 
 # TODO
@@ -59,7 +59,7 @@ the area of the circle given input pi and radius. Print back the following, as w
 number of characters, `first` is the first character in the sentence, `second` is the second character, and `last` is
 the last character. Also, print the data types of `size` and `second`.
 
->"Cool story bro! It's got `size` number of characters, the first one is a `first`,
+> "Cool story bro! It's got `size` number of characters, the first one is a `first`,
 > the second one is a `second` and the last one is a `last`.",
 """
 

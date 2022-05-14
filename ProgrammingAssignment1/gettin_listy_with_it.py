@@ -60,7 +60,7 @@ list. Write the loop such that the input 'x' will break the loop, allowing the p
 
 
 """
-2h) Prompt the user for a new number. Check if the number is in the list or not. If it is, print `True`. If it's not, 
+2h) Prompt the user for a number. Check if the number is in the list or not. If it is, print `True`. If it's not, 
 print `False`.
 """
 
@@ -84,7 +84,7 @@ print `True`. Else, print `False`.
 
 """
 2k) Declare an empty dictionary, then iterate over your list. For each number, check if the number is already in the 
-dictionary. If it is, increment its value by 1. If it is not, add it to the dictionary with a value of 1.
+dictionary as a key. If it is, increment its value by 1. If it is not, add it to the dictionary with a value of 1.
 With that, you just counted the frequency of each number in the list! Print the entire dictionary, and print the type 
 of the dictionary.
 """
