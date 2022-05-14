@@ -1,5 +1,5 @@
-# csci127-su22: Joy &amp; Beauty of Data
-## Montana State University 
+# CSCI-127: Joy &amp; Beauty of Data
+## Montana State University - Summer 2022
 
 [Syllabus](https://docs.google.com/document/d/e/2PACX-1vQ9Vk4k6kaHlTCs8EamoV1fMjhFUhkXrq82cX2wSoAAKoqaIg0SlUxDBOc7AMS84BG2xEStcj_jFoKm/pub)   
 [Calendar](https://docs.google.com/document/d/e/2PACX-1vREVjhQYM3Osik-UPGRx4WexHZLFn51T0EoB4jslqUCs4BRImtEV3hAx_RvSUY1JkvgPkWBufOdM24k/pub)   
