@@ -32,11 +32,11 @@ the area of the circle given input pi and radius. Print back the following, as w
 *Hint: pi = 3.14, area = pi * r^2, and circles are those round things. So if you enter 2 for the radius,
 you should get 12.56 for the area.*
 
-**1f) Ask the user for a one sentence story. Then print the following, where `size` is the total
-number of characters, `first` is the first character in the sentence, `second` is the second character, and `last` is
-the last character. Also, print the data types of `size` and `second`.**
+**1f) Ask the user for a one sentence story. Then print the following, where `length` is the total
+number of characters, `first` is the first character in the sentence, `second` is the second character,
+and `last` is the last character. Also, print the data types of `size` and `second`.**
 
-> "Cool story bro! It's got `size` number of characters, the first one is a `first`,
+> "Cool story bro! It's got `length` characters, the first one is a `first`,
 > the second one is a `second` and the last one is a `last`."
 
 ## Question #2 [25 Points]: In the file `gettin_listy_with_it.py`, write lines of code to do the following:
