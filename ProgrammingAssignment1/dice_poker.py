@@ -23,6 +23,15 @@ def rollDice() -> list:
 Question #3: You have a function above, called `rollDice()`, which returns a list of 5 random ints between 
 1 and 6, inclusive. Write a program with the following:
 
+HINT: I would first make a function `countFrequencies(dice: list) -> dict` that counts the frequencies of each value 
+in the roll. This will come in handy for a lot of these other functions. I would also recommend going back to the last 
+part of question #2 (i.e. the file `gettin_listy_with_it.py`) and copying some code to make this function.
+"""
+
+# TODO - If you want???
+
+
+"""
 3a) A function `isFiveKind(dice: list) -> bool` that returns `True` if all five dice are the same value and
 `False` otherwise.
 """
