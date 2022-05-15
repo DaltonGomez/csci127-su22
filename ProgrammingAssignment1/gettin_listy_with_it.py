@@ -5,8 +5,7 @@ Course: MSU CSCI-127 Joy & Beauty of Data
 Date: Summer 2022
 
 References Used:
-    * None
-    TODO - Populate this list if you significantly use a reference
+    * TODO - Populate this list if you significantly use a reference
 """
 
 """
