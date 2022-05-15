@@ -12,11 +12,11 @@ import random
 
 def rollDice() -> list:
     """Simulates a dice poker roll by returning a list of 5 ints, where each is randomly uniformly chosen from [1,6]"""
-    roll = []
+    dice = []
     for dieNumber in range(5):
         thisDie = random.randint(1, 6)
-        roll.append(thisDie)
-    return roll
+        dice.append(thisDie)
+    return dice
 
 
 """
