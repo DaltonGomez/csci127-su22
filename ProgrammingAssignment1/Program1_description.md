@@ -99,7 +99,7 @@ they are consecutively ascending and `False` otherwise.**
 **3h) A function `playDicePoker(numRolls: int) -> dict` that rolls the dice `numRolls` amount of times and
 computes the number of `fiveKind`, `fourKind`, `fullHouse`, `straight`, `threeKind`, `twoPair`, `pair` and `bust`
 (i.e. none of the above), earned in that number of rolls. Return a dictionary with keys for the type of roll and
-values for that roll's count (i.e. after zero rolls, the dictionary is `dict = {"fiveKind" : 0, "fourKind" : 0,
+values for that roll's count (i.e. after zero rolls, the dictionary is `handsWon = {"fiveKind" : 0, "fourKind" : 0,
 "fullHouse" : 0, "straight" : 0, "threeKind" : 0, "twoPair" : 0, "pair" : 0, "bust" : 0}`). NOTE: Each roll should
 only be counted once. That is to say a `fullHouse` is a just a `fullHouse`, and not also a `threeKind` and `pair`.
 This means the sum of all entries in the dictionary should total to `numRolls`.**
