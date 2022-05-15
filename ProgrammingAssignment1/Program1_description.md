@@ -104,8 +104,8 @@ values for that roll's count (i.e. after zero rolls, the dictionary is `handsWon
 only be counted once. That is to say a `fullHouse` is a just a `fullHouse`, and not also a `threeKind` and `pair`.
 This means the sum of all entries in the dictionary should total to `numRolls`.**
 
-**3i) From the returned dictionary, a function `printResults(results: dict) -> None` that prints the total number
-of rolls, the total number of each type of roll, and the percentage observed of each type of roll.**
+**3i) A function `printResults(numRolls: int, handsWon: dict) -> None` that prints the total number of rolls, the
+total number of each type of roll, and the percentage observed of each type of roll.**
 
 *HINT: If you enter a very large `numRolls` into the console (like >10,000), then, by the law of large numbers,
 you should see probabilities that very closely match the probability distribution published on the
@@ -113,4 +113,4 @@ you should see probabilities that very closely match the probability distributio
 
 **3j) Finally, write a script/main function that prompts the user how many times they'd like to play dice poker, passes
 the user's input into the `playDicePoker(numRolls: int) -> dict` function, and finally passes the returned dictionary
-into `printResults(results: dict) -> None`.**
+into `printResults(numRolls: int, handsWon: dict) -> None`.**
