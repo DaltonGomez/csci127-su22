@@ -36,8 +36,8 @@ you should get 12.56 for the area.*
 number of characters, `first` is the first character in the sentence, `second` is the second character, and `last` is
 the last character. Also, print the data types of `size` and `second`.**
 
->"Cool story bro! It's got `size` number of characters, the first one is a `first`, 
-> the second one is a `second` and the last one is a `last`.", 
+> "Cool story bro! It's got `size` number of characters, the first one is a `first`,
+> the second one is a `second` and the last one is a `last`."
 
 ## Question #2 [25 Points]: In the file `gettin_listy_with_it.py`, write lines of code to do the following:
 
