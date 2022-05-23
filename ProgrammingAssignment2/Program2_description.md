@@ -77,16 +77,16 @@ to the console.**
 ## Question #5 [10 Points]: Create a file `user_interface.py` that runs a REPL UI with the functionality proposed in the following `printMenu()` function:
 
 `def printMenu() -> None:`      
-`"""Prints the REPL UI menu"""`   
-`print("======== REPL UI MENU ========")`   
-`print("'c' - Adds new course")`   
-`print("'s' - Adds new student")`   
-`print("'g' - Assigns a course and grade to a student")`   
-`print("'p' - Prints a student's schedule in order of periods")`   
-`print("'a' - Calculates the student's grade point average")`
-`print("'D' - Prints the entire database")`   
-`print("'?' - Prints this menu again")`   
-`print("'x' - Exits the database")`
+\t`"""Prints the REPL UI menu"""`   
+\t`print("======== REPL UI MENU ========")`   
+\t`print("'c' - Adds new course")`   
+\t`print("'s' - Adds new student")`   
+\t`print("'g' - Assigns a course and grade to a student")`   
+\t`print("'p' - Prints a student's schedule in order of periods")`   
+\t`print("'a' - Calculates the student's grade point average")`
+\t`print("'D' - Prints the entire database")`   
+\t`print("'?' - Prints this menu again")`   
+\t`print("'x' - Exits the database")`
 
 ## Question #6 [10 Points]: Add to your REPL UI program in `user_interface.py` the ability to save and load a Database object from disc.
 
