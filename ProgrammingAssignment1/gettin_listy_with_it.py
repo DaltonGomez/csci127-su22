@@ -50,7 +50,6 @@ list. Write the loop such that the input 'x' will break the loop, allowing the p
 
 # TODO
 
-
 """
 2g) Print the average of all the items in the list.
 """
