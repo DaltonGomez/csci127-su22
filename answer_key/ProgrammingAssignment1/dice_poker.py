@@ -85,6 +85,7 @@ def isTwoPair(dice: list) -> bool:
             firstPair = True
         elif count == 2 and firstPair is True:
             return True
+    return False
 
 
 def isPair(dice: list) -> bool:
@@ -129,6 +130,7 @@ def printResults(numRolls: int, handsWon: dict) -> None:
         print(hand + ": " + str(handsWon[hand]) + "\t(" + str(round(percent, 2)) + "%)")
 
 
-rolls = int(input("\nHow many times would you like to play dice poker?\n-> "))
-hands = playDicePoker(rolls)
-printResults(rolls, hands)
+if __name__ == "__main__":
+    rolls = int(input("\nHow many times would you like to play dice poker?\n-> "))
+    hands = playDicePoker(rolls)
+    printResults(rolls, hands)
