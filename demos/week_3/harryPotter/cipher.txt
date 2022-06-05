@@ -1,0 +1,27 @@
+# PLAINTEXT -> CIPHERTEXT
+a->b
+b->v
+c->g
+d->q
+e->k
+f->m
+g->n
+h->a
+i->d
+j->z
+k->c
+l->w
+m->s
+n->o
+o->e
+p->y
+q->f
+r->j
+s->x
+t->h
+u->t
+v->l
+w->p
+x->u
+y->i
+z->r
