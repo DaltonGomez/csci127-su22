@@ -8,7 +8,7 @@ submit the individual files of this directory to the Programming Assignment #4 s
 
 ## Question #1 [25 Points]: ML Step 1: Read-In Data (and Basic Operations)
 
-**1a) Create a file `DataScientist.py` that defines an object of the `DataScientist` class. The constructor of the
+**1a) Create a file named `DataScientist.py` that defines an object of the `DataScientist` class. The constructor of the
 `DataScientist` class should be able to be called as `DataScientist(datasetName: str)`. In the constructor, you should
 assign the `datasetName` to an instance attribute called `self.datasetName`. Additionally, you should have an instance
 attribute called `self.dataFrame` that is assigned the Pandas dataframe object returned by reading in the corresponding
@@ -93,5 +93,11 @@ You should print and return the `classification`.**
 
 **4c) Create a new file `driver.py` that allows you to instantiate the `DataScientist` class many times over on
 specified datasets and call the methods you've written on those `DataScientist` objects. Use this file to test your
-class/methods. And with that... Congratulations! You just built a machine learning pipeline!!!** 
+class/methods. And with that... Congratulations! You just built a machine learning pipeline!!!**
 
+## BONUS: [+50 Points]: Beyond the Basics
+
+**Create a file called `AdvancedDataScientist.py` that defines an object of the `AdvancedDataScientist` class.
+In this class, create the necessary methods to read-in clean, visualize, and train a model for the `rain_tomorrow`
+dataset. Note that all the other datasets contain only numerical data. That is not the case with this one. As such,
+you'll need to familiarize yourself with working with other data types in ML pipelines.**
